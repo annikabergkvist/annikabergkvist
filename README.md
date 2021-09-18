@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @annikabergkvist
-- 👀 I’m interested in all things web dev and graphic design. The always evolving and constantly changing environtment. I enjoy the opportunity to interact with new tools and to learn new skills.
-- 🌱 I’m currently deep diving into front end dev.
+- 👋 Hi, I’m @annikabergkvist ☕️ ❤️ 🚴‍♀️
+- 👀 I’m interested in all things web dev and graphic design. 
+- 🌱 I’m currently diving head first into front end dev, react.js and agile/scrum.
 - 📫 How to reach me: annikabergkvist@hotmail.com
 
 <!---
