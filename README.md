@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @annikabergkvist ☕️ ❤️ 🚴‍♀️
-- 👀 I’m interested in all things web development
+- 👀 I’m interested in all things design and web development
 - 📫 How to reach me: annikabergkvist@hotmail.com
 
 <!---
