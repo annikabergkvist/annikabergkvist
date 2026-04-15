@@ -20,3 +20,4 @@ Currently open to remote/hybrid Design Engineer roles.
 
 ## Get in touch
 [linkedin.com/in/annikabergkvist](https://linkedin.com/in/annikabergkvist) · [annikabergkvist.se](https://annikabergkvist.se)
+
