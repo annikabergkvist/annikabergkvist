@@ -9,11 +9,11 @@ Currently open to remote/hybrid Design Engineer roles.
 ## What I work with
 - **Frontend:** Next.js · React · TypeScript · Tailwind CSS v4 · shadcn/ui
 - **Design:** Figma · Adobe Creative Suite · UX research · design systems
-- **Workflow:** Cursor · Claude · AI-assisted development
+- **Workflow:** AI tools for everyday workflow · AI-assisted development
 
 ## Selected work
 - [Portfolio](https://annikabergkvist.se)
-- [Fintech Dashboard UI](https://github.com/annikabergkvist/Fintech-Dashboard-UI)
+- [Orbit SaaS B2B Dashboard](https://github.com/annikabergkvist/orbit-saas-dashboard)
 
 ## Recognition
 🏆 Website of the Year 2015 — national award, Church of Sweden
